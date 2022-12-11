@@ -156,6 +156,8 @@ table {
 	text-align: right;
 	margin-right: 8px;
 	align-self: center;
+	border-radius: 5px;
+	padding-right: 1px;
 }
 
 .heat {
