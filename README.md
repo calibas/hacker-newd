@@ -11,7 +11,7 @@ It also compares the predicted and actual rank to look for recent stories that a
 
 **Important!** I'm not against moderation, it's good that Hacker News is moderated, the site would be very different otherwise. Dramatic, controversial stories about business and politics would start to drown out stories on programming, science and engineering. I think the HN mods do a good job, and this isn't meant to accuse them of anything.
 
-**Disclaimer:** This tool does not use the actual HN ranking algorithm, it's a secret as far as I know, and it cannot tell if or why a post has actually been "down-ranked" or "up-ranked". 
+**Disclaimer:** This tool does not use the actual HN ranking algorithm, it's a secret as far as I know, and this tool cannot tell if or why a post has actually been "down-ranked" or "up-ranked". 
 
 **Personal rant:**  I strongly believe that there's active abuse of reporting systems on nearly every social network, including Hacker News. The abuse comes from individuals with religious/political agendas, state actors looking to bury certain stories, and online reputation management (ORM) companies. While HN mods are able to combat this for the most part, it's impossible to investigate every occurrence and often difficult to distinguish between legitimate reports versus actual abuse.
 
